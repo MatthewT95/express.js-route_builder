@@ -1,20 +1,20 @@
-function response_get = (req,res,next)=>
+function response_get = (req,res,next)
 {
     // Get code
     res.send("Hello wolrd")
 }
 
-function response_post = (req,res,next)=>
+function response_post = (req,res,next)
 {
     // Post code
 }
 
-function response_put= (req,res,next)=>
+function response_put= (req,res,next)
 {
     // Put code
 }
 
-function response_delete = (req,res,next)=>
+function response_delete = (req,res,next)
 {
     // Delete code
 }
