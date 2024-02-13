@@ -1,25 +1,25 @@
-function get = (req,res,next)=>
+function response_get = (req,res,next)=>
 {
     // Get code
     res.send("Hello wolrd")
 }
 
-function post = (req,res,next)=>
+function response_post = (req,res,next)=>
 {
     // Post code
 }
 
-function put= (req,res,next)=>
+function response_put= (req,res,next)=>
 {
     // Put code
 }
 
-function delete = (req,res,next)=>
+function response_delete = (req,res,next)=>
 {
     // Delete code
 }
 
-module.exports.get=get
-module.exports.post=post
-module.exports.put=put
-module.exports.delete=delete
+module.exports.get=response_get
+module.exports.post=response_post
+module.exports.put=response_put
+module.exports.delete=response_delete
