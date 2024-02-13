@@ -2,7 +2,7 @@
     "":"home",
     "home":"home",
     "about":"about",
-    "blog":
+    "blogs":
     {
         "":"blogs",
         ":blog_id":"blog"
