@@ -5,6 +5,6 @@
     "blog":
     {
         "":"blogs",
-        ":blog_id":"blog-entry"
+        ":blog_id":"blog"
     }
 }
