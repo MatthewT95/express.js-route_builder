@@ -1,7 +1,7 @@
 function response_get = (req,res,next)
 {
     // Get code
-    res.send("Hello wolrd")
+    res.send("Hello world")
 }
 
 function response_post = (req,res,next)
