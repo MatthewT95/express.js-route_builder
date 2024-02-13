@@ -1,0 +1,18 @@
+{
+    "pages":
+    {
+        "":"pages-root",
+        "a":"page-a",
+        "b":"page-b",
+        "c":
+        {
+            "":"page-c",
+            "a":"page-c-a"
+        }
+    },
+    "blog":
+    {
+        "":"blog-root",
+        ":blog_id":"blog-entry"
+    }
+}
