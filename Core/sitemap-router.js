@@ -1,6 +1,5 @@
 const { error } = require("console");
 const express = require("express")
-let router = express.Router()
 
 function build_routes(sitemap,page_dir)
 {
