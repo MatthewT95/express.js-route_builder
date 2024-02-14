@@ -10,7 +10,7 @@
             "a":"page-c-a"
         }
     },
-    "blog":
+    "blogs":
     {
         "":"blog-root",
         ":blog_id":"blog-entry"
